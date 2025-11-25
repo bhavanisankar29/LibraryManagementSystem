@@ -41,7 +41,7 @@ You can find the Documentation inside /docs/ folder
 1. Clone the project
 
 ```bash
-  git clone git@github.com:MrAalu/LibraryManagementSystem_MERN.git
+  git clone git@github.com:bhavanisankar29/LibraryManagementSystem_MERN.git
 ```
 
 2. Goto Both 'Frontend' and 'Backend' folder
