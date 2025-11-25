@@ -77,33 +77,6 @@ You can find the Documentation inside /docs/ folder
 Import respective .JSON file into database Collection
 ```
 
-## How to run Project using Docker :
-
-- Populate localhost mongodb database (explained in Step5 above).
-- goto .env and make sure to use correct 'CONNECTION_URL'
-- then, goto main folder location i.e. cd LIBRARYMANAGEMENTSYSTEM_MERN/ and use command :
-
-```
-docker-compose up
-```
-
-## Login Credentials
-
-Starter Login Credentials : (Make sure to import database collections i.e. userdetails json file into the collections)
-
-1. ADMIN (user_type = "admin_user" ):
-
-```
- Email : admin@gmail.com , Password : admin
-```
-
-2. Normal User Can be created by SignUp Page (user_type = "normal_user" ):
-
-## Lessons Learned
-
-1. Code Comments are Loveletter's you leave behind for your future self.
-2. If you cant Solve it, address it for your Future Self. He sure can!
-
 ## Tech Stack
 
 **Frontend :** React, Bootstrap
